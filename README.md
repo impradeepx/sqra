@@ -4,7 +4,7 @@
 
 3: Move/pest that folder to C:\xampp\htdocs
 
-4: Rname the folder to ocean
+4: Rname the folder to sqra
 
 5: Open chrom and enter http://localhost/phpmyadmin/
 
